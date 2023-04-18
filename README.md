@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tedph-cyber
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on writing a code that rearranges the letters in a string chronologically descending
 - 📫 
