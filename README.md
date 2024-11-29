@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tedph-cyber
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
--    Low-key front end developer
+- 👋 Hi, I’m am TeD; @tedph-cyber
+- 👀 I’m deeply interested in cybersecurity
+- 🌱 I’m currently learning Python(Does it ever truly end?)
+-    Low-key front-end developer with Next.js
